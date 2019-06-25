@@ -4,10 +4,10 @@
 ### Why did i choose this.
 
 ### Development Environments.
-- Android
-- Rasberrypi
-- Arduino
-- Robot
+- Java
+- Multi-Thread
+- stl
+- g-code
 
 ### Configuration.
 
